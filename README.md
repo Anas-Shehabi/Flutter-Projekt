@@ -2,5 +2,4 @@
 
 A new Flutter project.
 
-This App wurde im Rahmen Mobiel Informationsysteme Leherveranstaltung entwekelt <br> Das Team besteht aus 2 Personen<br>
-project Describtion finden Sie Project description v26032023.pdf
+Die App wurde im Rahmen der Lehrveranstaltung "Mobile Informationssysteme" entwickelt. Das Team besteht aus zwei Personen. Eine detaillierte Projektbeschreibung finden Sie im Dokument "Project Description v26032023.pdf".
